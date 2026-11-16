@@ -1,2 +1,2 @@
 # LeetCode
-Random problem solved mainly in c++/c## sometimes 
+Random problem solved mainly in c++/ sometimes c#
